@@ -59,9 +59,13 @@ public class Topic_1 {
 				r = p;
 				p = q;
 				q = r;
-				 System.out.println("Number after swaping :"+ p+ " " +q);
+				 System.out.println("Number after swaping :"+ p+ " " +q);		 
 		  }
-	}
+		  double V =55;
+		  double F= 22;
+		 double Q =V/F ;
+	System.out.println("Division :" +Q);
+		}
 }
 
 
